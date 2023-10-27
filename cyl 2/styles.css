@@ -1,0 +1,29 @@
+/* CSS for anchor tag */
+.sidenav a {
+    display: block;
+    text-decoration: none;
+    padding: 6px 8px 6px 16px;
+    color: white;
+}
+
+.sidenav a:hover {
+    color: red;
+}
+
+/* CSS for side nav div tag */
+.sidenav {
+    height: 100vh;
+    width: 160px;
+    padding-top: 20px;
+    background-color: green;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+/* CSS for main div tag */
+.main {
+    margin-left: 160px; /* Should match the width of the sidenav */
+    padding: 0 10px;
+    height: 2000px;
+}

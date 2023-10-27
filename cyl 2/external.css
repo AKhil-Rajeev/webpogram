@@ -1,0 +1,20 @@
+/* Styles for selector1 */
+.selector1 {
+    color: #FF5733; /* Orange font color */
+    background-color: #FFECDB; /* Light orange background */
+    padding: 10px;
+}
+
+/* Styles for selector2 */
+.selector2 {
+    color: #3D59AB; /* Blue font color */
+    background-color: #D2E3FC; /* Light blue background */
+    padding: 10px;
+}
+
+/* Styles for selector3 */
+.selector3 {
+    color: #27AE60; /* Green font color */
+    background-color: #CFF2D0; /* Light green background */
+    padding: 10px;
+}
